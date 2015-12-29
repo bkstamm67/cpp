@@ -6,7 +6,7 @@
  * prints off a x per instructions.
  * *********/
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 

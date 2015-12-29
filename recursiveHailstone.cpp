@@ -5,7 +5,7 @@
  * except rather than using a regular function, it uses a recursive function.
  * ***********/
 
-#include<iostream>
+#include <iostream>
 #include <string>
 #include <cstdlib>
 
